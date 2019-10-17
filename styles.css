@@ -9,7 +9,7 @@ ul, li, h4, h3, h2, h1, p{
 	list-style:none;
 }
 div {
-border-style: dashed;
+border-style: dotted;
 width: 100%;
-height: 30vh;
+height: 300px;
 }
