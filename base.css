@@ -9,6 +9,12 @@ ul, li, h3, h2, h1, p{
 	list-style:none;
 }
 
+div {
+
+border-style: dashed;
+	
+}
+
 .sidebar{
 	position:absolute;
 	right:5px;
