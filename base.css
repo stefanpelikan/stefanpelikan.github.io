@@ -12,6 +12,7 @@ ul, li, h3, h2, h1, p{
 div {
 
 border-style: dashed;
+display: flex;
 	
 }
 
